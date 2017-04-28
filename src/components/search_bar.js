@@ -1,6 +1,3 @@
-// it always has to be imported
-// because the JSX syntax calls React.createElement
-// when compiling
 import React, { Component } from 'react';
 
 class SearchBar extends Component {
